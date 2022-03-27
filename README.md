@@ -29,24 +29,22 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Breeze](https://img.shields.io/badge/breeze-%23000000.svg?style=for-the-badge&logo=breeze&logoColor=#00C7B7) ![PHP](https://img.shields.io/badge/PHP-%233333FF.svg?style=for-the-badge&logo=PHP&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23E34F26.svg?style=for-the-badge&logo=Laravel&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-FFF?style=for-the-badge&logo=react&logoColor=A86454) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
   
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=CodeWhiteWeb&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeWhiteWeb&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Drian-key&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Drian-key&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Drian-key&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=CodeWhiteWeb&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Drian-key&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### 📕 Latest Blog Posts
+### 📕 My project launched
 
 <!-- BLOG-POST-LIST:START -->
- [10 must have 3rd party services for all websites](https://dev.to/codewhiteweb/10-must-have-3rd-party-services-for-all-websites-584m)
+ [Web school "SMK Negeri 1 Kejobong"](https://smknkejobong.sch.id)
   
- [Best Google Fonts for your website](https://dev.to/codewhiteweb/best-google-fonts-for-your-website-3e5k)
+ [Web LSP "SMK Negeri 1 Kejobong"](https://lspsmknkejobong.sch.id)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/codewhiteweb)
-
-### ✍️Random Dev Quote
+### ✍️Quote Dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
@@ -54,5 +52,6 @@
 ![](http://ForTheBadge.com/images/badges/built-by-developers.svg)
 ![](https://forthebadge.com/images/badges/uses-brains.svg)
 ---
-![](https://komarev.com/ghpvc/?username=CodeWhiteWeb&label=Visitors+Count&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=Drian-key&label=Visitors+Count&color=brightgreen)
 </div>
+
