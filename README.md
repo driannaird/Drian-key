@@ -8,6 +8,8 @@
 
 ---
 <div align="center">
+
+[![@driantcho's Holopin board](https://holopin.me/driantcho)](https://holopin.io/@driantcho)
   
 # 💫About Me :
 🌱 I’m currently learning : Front End
