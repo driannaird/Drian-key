@@ -38,14 +38,6 @@
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Drian-key&theme=discord&no-frame=false&no-bg=false&margin-w=4)
 
-### 📕 My project launched
-
-<!-- BLOG-POST-LIST:START -->
- [Web school "SMK Negeri 1 Kejobong"](https://smknkejobong.sch.id)
-  
- [Web LSP "SMK Negeri 1 Kejobong"](https://lspsmknkejobong.sch.id)
-<!-- BLOG-POST-LIST:END -->
-
 ### ✍️Quote Dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
